@@ -20,9 +20,17 @@ to fork this and add a site.
 * http://jxnblk.com/hello-color
 * http://jxnblk.com/rebass
 * http://mrmrs.cc
+* http://johnotander.com
+* http://randoma11y.com
 * https://tableflip.io
 * https://spec.fm
 * http://brianlovin.com
 * https://medium.com
 * https://thisishugo.com
-
+* http://marcelosomers.com/
+* http://gasolinasv.com
+* http://csspurge.com
+* http://ryanmack.me
+* http://shaneboland.com
+* http://thumbtack.com
+* http://solid.systems
