@@ -19,3 +19,5 @@ to fork this and add a site.
 * http://jxnblk.com
 * http://mrmrs.cc
 * https://tableflip.io
+* https://spec.fm
+* http://brianlovin.com
