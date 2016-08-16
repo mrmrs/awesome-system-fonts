@@ -13,6 +13,7 @@ to fork this and add a site.
 * http://clrs.cc
 * http://basscss.com
 * http://tachyons.io
+* http://colepeters.com
+* http://frankchimero.com
 * http://jxnblk.com
 * http://mrmrs.cc
-* http://colepeters.com
