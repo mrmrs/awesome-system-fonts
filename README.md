@@ -16,9 +16,12 @@ to fork this and add a site.
 * https://martinwolf.org
 * http://colepeters.com
 * http://frankchimero.com
+* http://geomicons.com
 * http://jxnblk.com
 * http://jxnblk.com/hello-color
 * http://jxnblk.com/rebass
+* http://mrsjxn.com
+* http://microbeats.cc
 * http://mrmrs.cc
 * http://johnotander.com
 * http://randoma11y.com
