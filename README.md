@@ -21,3 +21,5 @@ to fork this and add a site.
 * https://tableflip.io
 * https://spec.fm
 * http://brianlovin.com
+* https://medium.com
+* https://thisishugo.com
