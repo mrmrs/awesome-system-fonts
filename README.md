@@ -17,6 +17,8 @@ to fork this and add a site.
 * http://colepeters.com
 * http://frankchimero.com
 * http://jxnblk.com
+* http://jxnblk.com/hello-color
+* http://jxnblk.com/rebass
 * http://mrmrs.cc
 * https://tableflip.io
 * https://spec.fm
