@@ -7,5 +7,11 @@ to fork this and add a site.
 * http://unsplash.com
 * http://github.com
 * http://bluebottlecoffee.com
+* http://amazon.com
 * http://vimgifs.com
+* http://cssstats.com
+* http://clrs.cc
+* http://basscss.com
+* http://tachyons.io
 * http://jxnblk.com
+* http://mrmrs.cc
