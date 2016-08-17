@@ -6,6 +6,7 @@ to fork this and add a site.
 * http://zeit.co
 * http://unsplash.com
 * http://github.com
+* http://mobile.twitter.com
 * http://bluebottlecoffee.com
 * http://amazon.com
 * http://vimgifs.com
@@ -41,3 +42,5 @@ to fork this and add a site.
 * http://www.usequarry.com
 * http://web.audaciousfox.net
 * http://joshuajenkins.com
+* http://nickfletchr.com
+
