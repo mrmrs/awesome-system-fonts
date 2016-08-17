@@ -8,6 +8,7 @@ to fork this and add a site.
 * http://github.com
 * http://mobile.twitter.com
 * http://bluebottlecoffee.com
+* https://jsfiddle.net
 * http://amazon.com
 * http://vimgifs.com
 * http://cssstats.com
@@ -44,4 +45,6 @@ to fork this and add a site.
 * http://joshuajenkins.com
 * http://nickfletchr.com
 * https://tomcavill.com
-
+* http://www.johjakob.de
+* http://www.lucassmith.me
+* https://jonsuh.com/hamburgers/
