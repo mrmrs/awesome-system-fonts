@@ -10,6 +10,8 @@ to fork this and add a site.
 * http://bluebottlecoffee.com
 * https://jsfiddle.net
 * http://amazon.com
+* http://libraries.io
+* http://dependencyci.com
 * http://vimgifs.com
 * http://cssstats.com
 * http://clrs.cc
