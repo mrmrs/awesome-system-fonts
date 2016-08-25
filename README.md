@@ -54,3 +54,5 @@ to fork this and add a site.
 * https://gabri.me
 * http://jorgeatgu.com
 * https://storebook.vn
+* http://steele.pro
+* http://zacanger.com
