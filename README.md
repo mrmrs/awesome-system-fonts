@@ -1,6 +1,6 @@
 # Sites with System Fonts
 
-A collection of sites that use system fonts on their website. Feel free
+A collection of sites that only use system fonts on their website. Feel free
 to fork this and add a site.
 
 * https://zeit.co/
