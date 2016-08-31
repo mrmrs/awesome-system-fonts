@@ -12,6 +12,7 @@ to fork this and add a site.
 * https://amazon.com/
 * https://libraries.io/
 * https://dependencyci.com/
+* https://craigslist.org
 * https://vimgifs.com/
 * http://cssstats.com
 * http://clrs.cc
