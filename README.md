@@ -60,3 +60,4 @@ to fork this and add a site.
 * http://kylefiedler.com/
 * https://obsidian.charlespeters.net/
 * http://ricardoerl.com/
+* https://wordpress.com (when logged in)
